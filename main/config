@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	name = almurillo
+	email = alcides.murillo@gmail.com
+[remote "origin"]
+	url = git@github.com:almurillo/brownie_fund_me.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
